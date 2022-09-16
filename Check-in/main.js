@@ -4,7 +4,7 @@ function Mandar(){
     var gp3 = document.form1.gp3.value;
 
     document.write('<h1>')
-    document.write('Encerrando Check-in MIA ');
+    document.write('Encerrando Check-in EUA ');
     document.write('</h1>')
     document.write('<h2>')
     document.write(' Carimbos - ' + gp1+ '<br>');
